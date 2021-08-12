@@ -39,4 +39,4 @@ At this moment no future updates are being considered.
 
 ---
 
-**[GitHub](https://github.com/ehtesham-ali/Speech-To-Text-GUI) | [Website](https://ali-ehtesham.carrd.co/)**
+**[Notion](https://knowing-letter-85f.notion.site/Speech-To-Text-GUI-168f55a30db247438ea162abd1d7f61b) | [Website](https://ali-ehtesham.carrd.co/)**
